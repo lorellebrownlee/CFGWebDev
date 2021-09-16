@@ -104,7 +104,7 @@ img {
   background: radial-gradient(circle, #FABF15, #FABF15);
   padding: 10px;
   margin: 0;
-  border: 5px solid #555;
+  border: 5px solid #58A9DD;
   color: #555;
 }
 
@@ -211,8 +211,9 @@ blockquote {
   left: 0;
   background-color: #EC008C; 
   overflow-x: hidden; 
-  padding-top: 90px; 
-  transition: 0.5s; 
+  padding-top: 120px; 
+  transition: 0.5s;
+  color: #FABF15;
 }
 
 /* The navigation menu links */
