@@ -214,6 +214,7 @@ blockquote {
   padding-top: 120px; 
   transition: 0.5s;
   color: #FABF15;
+  border: 5px solid #58A9DD;
 }
 
 /* The navigation menu links */
