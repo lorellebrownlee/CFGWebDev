@@ -215,6 +215,7 @@ blockquote {
   transition: 0.5s;
   color: #FABF15;
   border: 5px solid #58A9DD;
+  border-radius: 5px;
 }
 
 /* The navigation menu links */
